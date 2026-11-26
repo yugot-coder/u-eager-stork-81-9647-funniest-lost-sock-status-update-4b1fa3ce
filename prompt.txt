@@ -1,0 +1,11 @@
+Funniest Lost Sock Status Update
+Competition slug: u-eager-stork-81-9647-funniest-lost-sock-status-update-4b1fa3ce
+
+Task: write ONE status update, at most 120 characters, from the point of view
+of a lost sock. The sock has ended up somewhere it should not be, and it has
+something to say about it. One short, self-contained line — not a thread, not
+a picture. A judge model compares two entries at a time and picks the funniest
+line; the funniest line takes the whole reward.
+
+Program output: main.py writes the single line to $MAKEFUN_OUTPUT_DIR/entry.txt
+(default /output/entry.txt).
